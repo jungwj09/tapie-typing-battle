@@ -52,6 +52,26 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 
 ---
 
+## Development Commands
+- Start the development server:
+  ```bash
+  npm run dev
+  ```
+- Build for production:
+  ```bash
+  npm run build
+  ```
+- Preview production build:
+  ```bash
+  npm run preview
+  ```
+- Run lint checks:
+  ```bash
+  npm run lint
+  ```
+
+---
+
 ## Project Structure
 ```
 TAPIE-typing-battle/
@@ -122,26 +142,6 @@ TAPIE-typing-battle/
       └───utils/
           └───random.js             # Utility functions for selecting random items from arrays (배열에서 랜덤 항목을 가져오는 등 유틸리티 함수)
 ```
-
----
-
-## Development Commands
-- Start the development server:
-  ```bash
-  npm run dev
-  ```
-- Build for production:
-  ```bash
-  npm run build
-  ```
-- Preview production build:
-  ```bash
-  npm run preview
-  ```
-- Run lint checks:
-  ```bash
-  npm run lint
-  ```
 
 ---
 
