@@ -152,5 +152,5 @@ TAPIE-typing-battle/
 
 ---
 
-개발자: [정우진](https://github.com/jungwj0706) <br />
+개발자: [정우진](https://github.com/jungwj09) <br />
 디자이너: 조예서
